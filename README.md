@@ -1,4 +1,4 @@
-<img src="header.png" width="1200" height="170" alt="official" />
+<img src="header.png" width="1200" height="200" alt="official" />
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
