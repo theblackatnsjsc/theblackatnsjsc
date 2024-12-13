@@ -50,7 +50,7 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=61567337396115&ref=embed_page" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="theBlackAnts-facebook" />
   </a>
   <a href="https://youtube.com/@trungquandev" target="blank">
@@ -62,60 +62,67 @@
   <a href="https://instagram.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="theBlackAnts-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="info@theblackants.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="theBlackAnts-email" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center">📖 Mission and Vision 📖</h2>
+<h2 align="center">📖 MISSION AND VISION 📖</h2>
 
-<p><strong>🔹 Mission</strong>
+<p><strong>🔹 MISSION</strong>
 <span>We create value for customers, contribute to the development of society, and ensure sustainability for businesses.</span>
 </p>
-<p><strong>🔹 Vision</strong>
-<span>To become a leading enterprise in the region in the field of software development and digital transformation applications for all businesses.</span>
+<p><strong>🔹 VISION</strong>
+<span>To become the leading enterprise in the region in the field of software development and digital transformation applications for all businesses.</span>
 </p>
 
-<h2 align="center">💎 Core Values 💎</h2>
-<p><strong>✔️ Accuracy</strong>
+<h2 align="center">💎 CORE VALUES 💎</h2>
+<p><strong>✔️ ACCURACY</strong>
 <span>Accuracy is our guiding principle for every step of development.</span>
 </p>
-<p><strong>🤝 Collaboration</strong>
-<span>Collaboration creates strength.</span>
+<p><strong>🤝 CONNECTION</strong>
+<span>Connection creates strength.</span>
 </p>
-<p><strong>🔒 Integrity</strong>
-<span>We always aim for a truthful environment that creates stability and sustainability, thereby promoting long-term development.</span>
+<p><strong>🔒 INTEGRITY</strong>
+<span>We always aim for an honest environment to create stability and sustainability, which in turn drives long-term development.</span>
 </p>
 
-<h2 align="center">🛠️ Products/Services 🛠️</h2>
+<h2 align="center">🛠️ PRODUCTS/SERVICES 🛠️</h2>
 <ul>
   <li>📦 Software Development/Maintenance</li>
-  <li>📱 Mobile App Development</li>
-  <li>🌐 Web Development</li>
+  <li>📱 Mobile Application Development</li>
+  <li>🌐 Website Development</li>
   <li>🎨 UI/UX Design</li>
-  <li>💳 FinTech/New Technologies</li>
+  <li>💳 Financial Technology.../New Technologies</li>
   <li>🔍 QA & Testing</li>
 </ul>
 
-<h2 align="center">🚀 Development Strategy 🚀</h2>
+<h2 align="center">🚀 DEVELOPMENT STRATEGY 🚀</h2>
 
-<h3>📈 A- Expansion and Scaling:</h3>
-<p><strong>🔍 Research and develop many new technologies for expansion.</strong>
-<span>The company continues to seek high-quality personnel, connect with new partners and customers with credibility and market needs, to create a large and sustainable operational network, laying the foundation for strong development in the future.</span>
+<h3>📈 A- Search and Scale:</h3>
+<p><strong>🔍 Research and develop many new technologies with the goal of expansion.</strong>
+<span>The company continues to search for quality personnel, connect with reputable new partners and clients with market demand, in order to build a large and sustainable network, serving as a foundation for strong future growth.</span>
 </p>
 
-<h3>🛠️ B- Research and build new production, business models with key highlights:</h3>
-<p>Strengthen research on the development and changes of the market as well as customer preferences to propose and build new production methods and business models, thus contributing to the company's market development.</p>
+<h3>🛠️ B- Research and build new business models with highlights:</h3>
+<p>Strengthen research into the development and changes of the market, as well as customer preferences, to propose and build new production methods and business models, thus contributing to the company’s growth in the market.</p>
 
 <h3>🛠️ C- Develop high-quality human resources:</h3>
-<p><strong>👥 Human resources</strong> must always be prioritized for development both in terms of quantity and quality to meet the company's growth rate.</p>
-<p>Personnel are regularly and professionally trained in knowledge and skills to keep up with job requirements, maintain and meet the increasing demands of customers and partners in both product and service quality.</p>
-<p><strong>👨‍🏫 Preparing and training leadership personnel</strong> to be ready to manage new projects is also one of the company's priorities.</p>
+<p><strong>👥 Human resources</strong> must always be prioritized for both quantity and quality development to meet the company’s growth speed.</p>
+<p>Staff are regularly and professionally trained in knowledge and skills to keep up with job requirements and maintain and meet increasing customer and partner demands for both product and service quality.</p>
+<p><strong>👨‍🏫 Preparing and training leadership staff</strong> to be ready to manage new projects is also a priority for the company.</p>
 
-<h2 align="center">🐜 Conclusion 🐜</h2>
+<h2 align="center">🐜 CONCLUSION 🐜</h2>
 
-<p>The Black Ants commits to continue developing in the spirit of the black ants: working hard, accurately, honestly, and always collaborating.</p>
-<p>Our direction is to become a reliable partner for businesses, providing high-quality, creative software solutions that bring sustainable value to customers and the community.</p>
-<p>Just
+<p>The Black Ants commits to continuing development in the spirit of the black ants: working hard, accurately, honestly, and always united.</p>
+<p>Our goal is to become a trusted partner for businesses, providing quality, creative software solutions that bring sustainable value to customers and the community.</p>
+<p>Just like a colony of ants overcoming all difficulties together, The Black Ants will keep moving forward to achieve solid and long-lasting success.</p>
+
+<p>
+  <strong>🔗 Contact me on Facebook: <a href="https://www.facebook.com/profile.php?id=61567337396115" target="_blank">https://www.facebook.com/TheBlackAnts</a></strong>
+  <br>
+  <strong>📧 Or via Email: <a href="info@theblackants.com" target="_top">info@theblackants.com</a></strong>
+</p>
+<img src="footer.png" width="1200" alt="official" />
